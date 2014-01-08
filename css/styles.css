@@ -14,7 +14,7 @@ a.nostyle{
   margin:0;
 }
 .project-text{
-  size: .8em;
+  font-size: .8em;
 }
 .screen-shot{
   width: 100%;
@@ -73,7 +73,7 @@ div.portfoliocard div.profile_picture{
   top:65px;
   left:40px;
   border-radius:100%;
-  background-image: url('http://media-cache-ak0.pinimg.com/236x/ac/3d/6a/ac3d6aeda1260244aed9e3393abc0eff.jpg');
+  background-image: url(../images/Me.png);
   background-size:100% 100%;
   padding:7px;
   border:4px solid rgba(255,255,255,1)
