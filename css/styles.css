@@ -1,6 +1,5 @@
-h1 {
-  text-align: center;
-  font-family:"Open Sans", sans-serif;
+h2, h3, .navbar-brand {
+  font-family: "Bodoni MT", Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
 }
 
 body{
@@ -27,11 +26,11 @@ a.nostyle{
 
 .image-container{ 
   position: relative; 
+  max-width: 80%;
+  max-height: 80%;
+  margin-left: 50px;
 }
 
-.col-md-3{
-  float: right;
-}
 
 .screen-shot{
   max-width: 100%; 
@@ -162,7 +161,7 @@ div.portfoliocard ul.contact_information li.phone:before{
 div.portfoliocard ul.contact_information li.resume:before{
   background-image: url('http://schulzmarcel.de/x/icons/inbox_24.png');
 }
-div.portfoliocard div.followers, div.portfoliocard div.following{
+/*div.portfoliocard div.followers, div.portfoliocard div.following{
   margin:15px 0px 0px 35px;
   font-weight:300;
   font-size:16px;
@@ -172,4 +171,4 @@ div.portfoliocard div.follow_count{
   font-weight:400;
   font-size:25px;
   color:rgba(140,140,140,1);
-}
+}*/
