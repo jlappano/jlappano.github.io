@@ -29,6 +29,10 @@ a.nostyle{
   position: relative; 
 }
 
+.col-md-3{
+  float: right;
+}
+
 .screen-shot{
   max-width: 100%; 
   max-height: 100%;
