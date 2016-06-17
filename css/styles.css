@@ -2,7 +2,11 @@ h2, h1, .navbar-brand {
   font-family: "Bodoni MT", Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
 }
 
-body{
+h1 {
+  font-size: 3.7em;
+}
+
+body {
   background-size:100% 100%;
   font-family:"Open Sans", sans-serif;
   background-color: rgba(205,255,0,0.2);
@@ -10,40 +14,40 @@ body{
   color: rgba(80,77,102,.9);
 }
 
-a.nostyle{
+a.nostyle {
   color:inherit;
   text-decoration:none;
   padding:0;
   margin:0;
 }
 
-.contact-information{
+.contact-information {
   text-align: center;
   font-size: 1.5em;
 }
 
-.padding-top{
+.padding-top {
   padding-top: 50px
 }
 
-.padding-bottom{
+.padding-bottom {
   padding-bottom: 50px
 }
 
-.project-text{
+.project-text {
   font-size: .7em;
 }
-.about-text{
+.about-text {
   font-size: 1.5em;
   font-weight: 300;
 }
 
-.image-container{ 
+.image-container { 
   max-width: 500px;
   max-height: 500px;
 }
 
-.profile-picture{
+.profile-picture {
   border-radius: 100%;
   background-image: url(../images/Julie2.JPG);
   background-size: cover;
@@ -53,7 +57,7 @@ a.nostyle{
   transform: rotate(270deg);
 }
 
-.screen-shot{
+.screen-shot {
   width: 100%; 
   height: 100%;
   border:1px solid rgba(0,0,0,0.7);
